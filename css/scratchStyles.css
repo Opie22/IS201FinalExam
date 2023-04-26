@@ -1,0 +1,49 @@
+p{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+
+.def1{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(149, 24, 105);
+    font-size: 25px;
+}
+
+.def2{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(24, 26, 149);
+}
+
+.def3{
+    font-family: 'Arial Narrow Bold', sans-serif;
+    color: rgb(55, 55, 55);
+    font-size: 32px;
+}
+.def4{
+    font-family:Geneva, Tahoma, sans-serif;
+    color: rgba(0, 102, 219, 0.853);
+}
+
+body{
+    background-color: rgb(64, 196, 253);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+ol{
+    list-style-position: inside;
+    font-size: 25px;
+}
+
+ul{
+    list-style-position: inside;
+    font-size: 15px;
+}
